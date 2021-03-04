@@ -13,12 +13,4 @@ Requirements:
 - All your styling is in a separate file to the html.
 
 
-Notes:
-
-I've included two style sheets.
-The first 'style.css' I feel is a more accurate more scalable version of the template.
-
-The second 'style2.css' (which I will be hosting with) is more specifyed to the design requirements, all but one container has a fixed width.
-
-
-Hosted [here](http://prickly-desk.surge.sh/)
+Hosted [here](capricious-lift.surge.sh)
