@@ -13,4 +13,4 @@ Requirements:
 - All your styling is in a separate file to the html.
 
 
-Hosted [here](capricious-lift.surge.sh)
+Hosted by surge: capricious-lift.surge.sh
