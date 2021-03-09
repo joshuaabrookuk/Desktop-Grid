@@ -1,4 +1,6 @@
-* {all: inherit}
+* {
+  all: inherit;
+}
 
 .grey-container {
   background-color: #dddddd;
