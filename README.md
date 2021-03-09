@@ -13,4 +13,4 @@ Requirements:
 - All your styling is in a separate file to the html.
 
 
-Hosted by surge: (here)[http://righteous-crate.surge.sh/]
+Hosted by surge: [here](http://squalid-screw.surge.sh/)
